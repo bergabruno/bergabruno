@@ -1,12 +1,11 @@
 ### Hi there, This is Bruno Bergamasco 👋
 
 
-
-- 🎓 Currently pursuing a Bachelor's Degree in Information Systems at FIAP (Brazil)
-- 📫 Contact me on bryanroncon@outlook.com
+- 🎓 Atualmente cursando Sistemas de Informação na FIAP
+- 💻 Trabalhando como Junior Developer na IBM
 
 <div align="left">
-  <a href="https://github.com/bryanroncon18">
+  <a href="https://github.com/bergabruno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanroncon18&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanroncon18&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
