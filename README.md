@@ -2,7 +2,7 @@
 
 
 - 🎓 Atualmente cursando Sistemas de Informação na FIAP
-- 💻 Trabalhando como Junior Developer na IBM
+- 💻 Trabalhando como Junior Developer no Santander - F1RST Tecnologia.
 
 <div align="left">
   <a href="https://github.com/bergabruno">
