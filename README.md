@@ -1,8 +1,8 @@
 ### Hi there, This is Bruno Bergamasco 👋
 
 
-- 🎓 Atualmente cursando Sistemas de Informação na FIAP
-- 💻 Trabalhando como Junior Developer no Santander - F1RST Tecnologia.
+- 🎓 Curso em Sistemas de Informação na FIAP,
+- 💻 Trabalhando como Desenvolvedor Pleno no Santander - F1RST Tecnologia.
 
 <div align="left">
   <a href="https://github.com/bergabruno">
