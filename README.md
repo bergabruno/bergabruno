@@ -73,7 +73,7 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bergabruno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergabruno&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergabruno&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&exclude_repo=github-readme-stats"/>
 
 </div>
 
@@ -91,37 +91,21 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 
 ---
 
-## Contribution Snake
+## Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bergabruno/bergabruno/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bergabruno&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-> To enable the snake animation, create a GitHub Action in `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: bergabruno
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+---
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/bergabruno/bergabruno/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
 
 ---
 
