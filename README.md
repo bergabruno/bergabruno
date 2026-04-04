@@ -104,7 +104,7 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/bergabruno/bergabruno/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://github.com/bergabruno/bergabruno/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
