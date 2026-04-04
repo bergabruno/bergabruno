@@ -74,6 +74,14 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bergabruno&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bergabruno&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bergabruno&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bergabruno&theme=github_dark&utcOffset=-3"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bergabruno&theme=github_dark" width="100%"/>
 
 </div>
 
@@ -86,16 +94,6 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bergabruno&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bergabruno&theme=algolia&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
