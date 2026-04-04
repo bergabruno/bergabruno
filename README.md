@@ -72,8 +72,8 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bergabruno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergabruno&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&exclude_repo=github-readme-stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bergabruno&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bergabruno&theme=github_dark"/>
 
 </div>
 
@@ -95,7 +95,7 @@ Senior Software Engineer at **Bradesco**, one of Brazil's largest financial inst
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bergabruno&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bergabruno&theme=algolia&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
